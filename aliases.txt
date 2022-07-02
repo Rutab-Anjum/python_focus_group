@@ -1,0 +1,5 @@
+alias ls="ls -F" # Add one char of */=>@| to enteries to denote type (file, directory, alias)
+alias rm="rm -i" # Prompt user before every removal
+alias cp="cp -i" # Prompt before overwrite
+alias mv="mv -i" # Prompt before overwrite
+alias pfg="cd your/path/to/python_focus_goup/" # Use pfg to change into python_focus_group
